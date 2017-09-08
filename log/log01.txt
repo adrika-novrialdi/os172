@@ -1,0 +1,4 @@
+w01-17-09-03-11-LR- About : Introduction to Operating Systems From :Operating System
+w01-17-09-05-16- LR- About : HKI and Basic Scripting From : Lecturer
+w01-17-09-05-20 - LR - About  : Basic Scripting From : https://www.youtube.com/watch?v=hwrnmQumtPw
+w01-17-09-07-16 - LR - About : Basic Scripting From : Lecturer
